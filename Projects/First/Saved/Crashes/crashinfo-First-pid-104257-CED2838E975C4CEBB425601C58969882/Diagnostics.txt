@@ -1,0 +1,21 @@
+Generating report for minidump
+
+Application version 4.25.3.0
+ ... built from changelist 0
+
+OS version Linux 5.4.61-1-lts (network name: alex)
+Running 6 x86_64 processors (12 logical cores)
+Exception was "SIGILL: illegal instruction"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libc.so.6!UnknownFunction(0x15f111)
+Unknown!UnknownFunction()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!
