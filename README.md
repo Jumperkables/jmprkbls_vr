@@ -1,6 +1,18 @@
 # Jumperkables's VR Project
+
 The VR project, be it dataset collection or otherwise, ran by Tom Winterbottom
 Currently using Epic Game's Unreal Engine for development practice etc..
+
+## Installing the Unreal Engine
+
+This may not be needed to appreciate this repo. But if you need the Unreal Engine, follow [these instructions](https://docs.unrealengine.com/en-US/Platforms/Linux/BeginnerLinuxDeveloper/SettingUpAnUnrealWorkflow/index.html)
+
+
+
+
+
+
+# Extra Things
 
 ## Steam games on VR compatible with Arch Linx
 
